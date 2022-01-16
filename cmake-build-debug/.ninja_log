@@ -1,0 +1,21 @@
+# ninja log v5
+0	16	0	clean	c837c19e83b4cde5
+1	875	6640748596201599	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+876	1193	6640748598515384	Evolutionary_String.exe	faec780eb74bc07b
+15	310	6627373136622425	build.ninja	1e1704fc420e1cc7
+1	476	6640748884290451	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+477	807	6640748886704022	Evolutionary_String.exe	faec780eb74bc07b
+1	568	6640748994700632	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+570	1079	6640748998573171	Evolutionary_String.exe	faec780eb74bc07b
+1	639	6640749102319182	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+641	1226	6640749105817993	Evolutionary_String.exe	faec780eb74bc07b
+1	532	6640749324184396	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+534	839	6640749326348619	Evolutionary_String.exe	faec780eb74bc07b
+1	421	6640749442663866	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+423	914	6640749446019096	Evolutionary_String.exe	faec780eb74bc07b
+1	668	6640749812661356	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+669	1014	6640749815254713	Evolutionary_String.exe	faec780eb74bc07b
+0	444	6640749941414010	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+445	904	6640749944452830	Evolutionary_String.exe	faec780eb74bc07b
+1	420	6640750036141590	CMakeFiles/Evolutionary_String.dir/main.c.obj	e5a23e2de34b4f46
+422	999	6640750040448386	Evolutionary_String.exe	faec780eb74bc07b
